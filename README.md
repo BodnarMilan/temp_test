@@ -1,7 +1,7 @@
 # moderncpp_cmake_template
 
-[![ci](https://github.com/Sakezaf/moderncpp_cmake_template/actions/workflows/ci.yml/badge.svg)](https://github.com/Sakezaf/moderncpp_cmake_template/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/Sakezaf/moderncpp_cmake_template/graph/badge.svg?token=68V52GTSZZ)](https://codecov.io/gh/Sakezaf/moderncpp_cmake_template)
+[![ci](https://github.com/BodnarMilan/temp_test/actions/workflows/ci.yml/badge.svg)](https://github.com/BodnarMilan/temp_test/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/BodnarMilan/temp_test/graph/badge.svg?token=IHYJPQYB2P)](https://codecov.io/gh/BodnarMilan/temp_test)
 
 ## About moderncpp_cmake_template
 
